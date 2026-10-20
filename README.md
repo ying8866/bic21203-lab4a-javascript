@@ -30,7 +30,8 @@ bic21203-lab4a-javascript/
 
 ### Question 1 — Interactive Text Changer
 - **Figure 1.1: Initial Page Load**  
-<img width="126" height="57" alt="Screenshot 2026-10-20 083453" src="https://github.com/user-attachments/assets/76351875-0f77-4a76-bb74-e049eb876027" />
+![Figure 1.1](https://github.com/user-attachments/assets/984c49bc-d358-4078-b50f-1c62122ee812)
+
 
 
 - **Figure 1.2: Message Changed**  
