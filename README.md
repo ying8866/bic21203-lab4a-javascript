@@ -51,7 +51,7 @@ bic21203-lab4a-javascript/
 
 
 - **Figure 2.3: Input Above 10 (`15`)**  
-![Figure 2.3]https://github.com/user-attachments/assets/1eae7454-fdff-43dd-8b95-c148300bc15e)
+![Figure 2.3](https://github.com/user-attachments/assets/1eae7454-fdff-43dd-8b95-c148300bc15e)
 
 
 - **Figure 2.4: Invalid Input (`abc`)**  
