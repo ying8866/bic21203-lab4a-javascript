@@ -1,7 +1,7 @@
 # Lab 4a: Client-Side Scripting (JavaScript)
 
 **Course:** BIC21203 Web Development  
-**Student Name:** LIM ZHI YING 
+**Student Name:** LIM ZHI YING  
 **Student ID:** AI250243  
 
 ---
