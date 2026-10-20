@@ -25,6 +25,7 @@ bic21203-lab4a-javascript/
 │   ├── index.html
 │   └── script.js
 └── README.md            # Lab documentation and screenshots
+```
 
 ## 📸 Test Results and Evidence
 
@@ -35,39 +36,38 @@ bic21203-lab4a-javascript/
 
 
 - **Figure 1.2: Message Changed**  
-<img width="104" height="57" alt="Screenshot 2026-10-20 083538" src="https://github.com/user-attachments/assets/21e98e39-bc66-48b7-8315-95d98e846014" />
+![Figure 1.2](https://github.com/user-attachments/assets/21e98e39-bc66-48b7-8315-95d98e846014)
 
 
 ---
 
 ### Question 2 — Smart Number Validator
 - **Figure 2.1: Input Below 10 (`5`)**  
-<img width="265" height="50" alt="Screenshot 2026-10-20 084206" src="https://github.com/user-attachments/assets/ecab0867-8333-4ac5-b861-d4d7ac4526f8" />
+![Figure 2.1](https://github.com/user-attachments/assets/ecab0867-8333-4ac5-b861-d4d7ac4526f8)
 
 
 - **Figure 2.2: Input Equal to 10 (`10`)**  
-<img width="260" height="50" alt="Screenshot 2026-10-20 084224" src="https://github.com/user-attachments/assets/7f460cf7-41ca-4299-a2b3-9a8f2de47f83" />
+![Figure 2.2](https://github.com/user-attachments/assets/7f460cf7-41ca-4299-a2b3-9a8f2de47f83)
 
 
 - **Figure 2.3: Input Above 10 (`15`)**  
-<img width="266" height="53" alt="Screenshot 2026-10-20 084253" src="https://github.com/user-attachments/assets/1eae7454-fdff-43dd-8b95-c148300bc15e" />
+![Figure 2.3]https://github.com/user-attachments/assets/1eae7454-fdff-43dd-8b95-c148300bc15e)
 
 
 - **Figure 2.4: Invalid Input (`abc`)**  
-<img width="260" height="53" alt="Screenshot 2026-10-20 084348" src="https://github.com/user-attachments/assets/fc0b4791-3b16-4a02-b389-dace4c0ea6df" />
+![Figure 2.4](https://github.com/user-attachments/assets/fc0b4791-3b16-4a02-b389-dace4c0ea6df)
 
 
 - **Figure 2.5: Empty Input**  
-<img width="263" height="45" alt="Screenshot 2026-10-20 084405" src="https://github.com/user-attachments/assets/2a4a4841-2884-4332-b81a-64823c5d3024" />
-
+![Figure 2.5](https://github.com/user-attachments/assets/2a4a4841-2884-4332-b81a-64823c5d3024)
 
 ---
 
 ### Question 3 — Dynamic Number Generator
 - **Figure 3.1: Initial Page Load**  
-<img width="72" height="38" alt="Screenshot 2026-10-20 085301" src="https://github.com/user-attachments/assets/0cd96860-1aae-4e98-8f96-0815b08b778a" />
+![Figure 3.1](https://github.com/user-attachments/assets/0cd96860-1aae-4e98-8f96-0815b08b778a)
 
 
 - **Figure 3.2: Generated List Output & Repeated Click Test**  
-<img width="122" height="101" alt="Screenshot 2026-10-20 084946" src="https://github.com/user-attachments/assets/db3aeec0-edd8-43da-b167-0a7b99dae12a" />
+![Figure 3.2](https://github.com/user-attachments/assets/db3aeec0-edd8-43da-b167-0a7b99dae12a)
 
